@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on autonomous AI agents for the AI Agents Dubai competition, alongside AMAN and  Logistics automation<br><br>👯 I’m looking to collaborate on agentic AI workflows, LLM routing pipelines, and full-stack ML/AI builds<br><br>🤝 I’m looking for help with multi-agent orchestration, scaling APIs, and production system architecture<br><br>🌱 I’m currently learning ML/AI model integration, multi-agent systems, TypeScript/React, Supabase, and Python<br><br>💬 Ask me about AI agents, LLM routing, logistics automation, or shipping MVP builds fast<br><br>⚡ Fun fact I’m a hardcore lifter who loves watching movies and exploring the world
 
 
